@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    francomed:
+      email: a@gmail.com
+      name: Franco Medina
+      password: $2b$12$vCAwoVz8AZ16XTzIArOFfONkkH9Rk8OQVgaupDdNDAFFKHx7MU.0O
+    invitado:
+      email: b@gmail.com
+      name: Invitado
+      password: $2b$12$dbOD6wL3Kxqw0o7JtoeQJeD6KezA2Y5.rxc/dRiYkiXvfl8nZhcKW
+cookie:
+  expiry_days: 0
+  key: some_signature_key # Must be string
+  name: template_cookie
+preauthorized:
+  emails:
+  - fjmedina@teco.com
