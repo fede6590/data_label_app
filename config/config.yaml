@@ -4,10 +4,10 @@ credentials:
       email: fferreyra@teco.com.ar
       name: Federico Ferreyra
       password: $2b$12$vCAwoVz8AZ16XTzIArOFfONkkH9Rk8OQVgaupDdNDAFFKHx7MU.0O
-    francomedina:
-      email: fm@debugging.com
-      name: Invitado
-      password: $2b$12$dbOD6wL3Kxqw0o7JtoeQJeD6KezA2Y5.rxc/dRiYkiXvfl8nZhcKW
+    guest:
+      email: guest@gmail.com
+      name: Guest
+      password: guest
 cookie:
   expiry_days: 0
   key: some_signature_key # Must be string
