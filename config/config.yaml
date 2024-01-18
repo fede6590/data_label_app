@@ -1,11 +1,11 @@
 credentials:
   usernames:
-    francomed:
-      email: a@gmail.com
-      name: Franco Medina
+    fede6590:
+      email: fferreyra@teco.com.ar
+      name: Federico Ferreyra
       password: $2b$12$vCAwoVz8AZ16XTzIArOFfONkkH9Rk8OQVgaupDdNDAFFKHx7MU.0O
-    invitado:
-      email: b@gmail.com
+    francomedina:
+      email: fm@debugging.com
       name: Invitado
       password: $2b$12$dbOD6wL3Kxqw0o7JtoeQJeD6KezA2Y5.rxc/dRiYkiXvfl8nZhcKW
 cookie:
@@ -14,4 +14,4 @@ cookie:
   name: template_cookie
 preauthorized:
   emails:
-  - fjmedina@teco.com
+  - fferreyra@teco.com.ar
